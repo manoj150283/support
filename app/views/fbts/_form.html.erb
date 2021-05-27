@@ -1,0 +1,67 @@
+<%= form_with(model: fbt) do |form| %>
+  <% if fbt.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(fbt.errors.count, "error") %> prohibited this fbt from being saved:</h2>
+
+      <ul>
+        <% fbt.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :project %>
+    <%= form.text_field :project %>
+  </div>
+
+  <div class="field">
+    <%= form.label :status %>
+    <%= form.text_field :status %>
+  </div>
+
+  <div class="field">
+    <%= form.label :radius_poc %>
+    <%= form.text_field :radius_poc %>
+  </div>
+
+  <div class="field">
+    <%= form.label :support_engineer %>
+    <%= form.text_field :support_engineer %>
+  </div>
+
+  <div class="field">
+    <%= form.label :equipment %>
+    <%= form.text_field :equipment %>
+  </div>
+
+  <div class="field">
+    <%= form.label :warranty_start_date %>
+    <%= form.text_field :warranty_start_date %>
+  </div>
+
+  <div class="field">
+    <%= form.label :number_of_locations %>
+    <%= form.text_field :number_of_locations %>
+  </div>
+
+  <div class="field">
+    <%= form.label :support_coverage %>
+    <%= form.text_field :support_coverage %>
+  </div>
+
+  <div class="field">
+    <%= form.label :sla %>
+    <%= form.text_field :sla %>
+  </div>
+
+  <div class="field">
+    <%= form.label :tent_set_type %>
+    <%= form.text_field :tent_set_type %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

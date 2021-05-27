@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  project: MyString
+  status: MyString
+  CSM: MyString
+  Support_Engineer: MyString
+  Equipment: MyString
+  Warranty_Start_Date: MyString
+  Staff_Dashboard: MyString
+  Live_Locations: MyString
+  Total_Locations: MyString
+  Support_Coverage: MyString
+  SLA: MyString
+
+two:
+  project: MyString
+  status: MyString
+  CSM: MyString
+  Support_Engineer: MyString
+  Equipment: MyString
+  Warranty_Start_Date: MyString
+  Staff_Dashboard: MyString
+  Live_Locations: MyString
+  Total_Locations: MyString
+  Support_Coverage: MyString
+  SLA: MyString

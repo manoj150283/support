@@ -1,0 +1,47 @@
+<p id="notice"><%= notice %></p>
+
+<h1>FBTS Clients</h1>
+
+<table class ="table table-striped
+table-bordered table-hover">
+  <thead class ="thead-dark">
+    <tr>
+      <th>Project</th>
+      <th>Status</th>
+      <th>Radius POC</th>
+      <th>Support Engineer</th>
+      <th>Equipment</th>
+      <th>Warranty Start Date</th>
+      <th>Number of Locations</th>
+      <th>Support Coverage</th>
+      <th>SLA</th>
+      <th>Tent Set Type<th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @fbts.each do |fbt| %>
+    <tr>
+      <td><%= fbt.project %></td>
+      <td><%= fbt.status %></td>
+      <td><%= fbt.radius_poc %></td>
+      <td><%= fbt.support_engineer %></td>
+      <td><%= fbt.equipment %></td>
+      <td><%= fbt.warranty_start_date %></td>
+      <td><%= fbt.number_of_locations %></td>
+      <td><%= fbt.support_coverage %></td>
+      <td><%= fbt.sla %></td>
+      <td><%= fbt.tent_set_type %></td>
+      <td><%= link_to 'Show', fbt %></td>
+      <td><%= link_to 'Edit', edit_fbt_path(fbt) %></td>
+      <td><%= link_to 'Destroy', fbt, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+    </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Client', new_fbt_path, class:"btn
+btn-secondary"%>

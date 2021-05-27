@@ -1,0 +1,133 @@
+Table 1
+NSN,Store Name,ADDRESS,Zip code,City,Contact person restaurant,Telephone number contact person restaurant,Function contact person restaurant,Email contact person restaurant,Telephone number restaurant,Restaurant email
+1020,Zwolle Centrum,Grote Markt 12-13,8011 LW,Zwolle,Hans van Vilsteren,038-4211388,Restaurant manager,hans.v.vilsteren@nl.mcd.com,038-4211388,1020@nl.mcd.com
+1029,Groningen Hoendiep,Herestraat 52,9711 LK,Groningen,"GROOT,WILLIE DE",06-22125957,Restaurant manager,aleks.klugkist@nl.mcd.com,050-3134704,1029@nl.mcd.com
+1035,Rotterdam Alexandrium,Poolsterstraat 139,3067 LX,Rotterdam,Hikmet Reyhan,06-55871003,Supervisor,hikmet.reyhan@nl.mcd.com,010-4559435,1035@nl.mcd.com
+1037,Rotterdam Zuidplein,Zuidplein hoog 515,3083 BG,Rotterdam,Hadisa Sacic,06-21205801,Restaurant manager,hadisa.sacic@nl.mcd.com,010-4819254,1037@nl.mcd.com
+1039,Amsterdam Kinkerstraat,Kinkerstraat 192-198,1053 EL,Amsterdam,Ismail Rassir,06-54743304,Supervisor,Ismail.Rassir@nl.mcd.com,020-6167026,1039@nl.mcd.com
+1050,Duiven Nieuwgraaf,Nieuwgraaf 2,6921 RJ,Duiven,Nico Frentz,06-28828615,Director,Nico.Frentz@nl.mcd.com,026-3117938,1050@nl.mcd.com
+1052,Roermond Hamstraat,Hamstraat 54,6041 HC,Roermond,Darwin Slenders,06-30085486,Supervisor,darwin.slenders@nl.mcd.com,0475-334186,1052@nl.mcd.com
+1054,Tilburg Piusplein,Piusplein 75,5038 WP,Tilburg,Maurice van der Sluijs,06-53433512,Restaurant manager,maurice.vd.sluijs@nl.mcd.com,013-5802634,1054@nl.mcd.com
+1057,Middelburg Bosschaartsweg,Bosschaartsweg 1,4336 PB,Middelburg,Abby de Kam,06-52623005,Franchisee,abby.d.kam@nl.mcd.com,0118-614579,1057@nl.mcd.com
+1058,Tiel Bergakker,Bergakker 11,4013 CM,Tiel,Ron Michels,06-55755022,General Manager,Renske.v.Mameren@nl.mcd.com,0344-661410,1058@nl.mcd.com
+1059,Rotterdam Stadionweg,Stadionweg 44,3078 HV,Rotterdam,Mustapha Andour,06-46603839,Restaurant manager,mustapha.andour@nl.mcd.com,010-4795558,1059@nl.mcd.com
+1060,Amsterdam ZO,Muntbergweg 16-18,1101 ED,Amsterdam,MCOPCO,,,,020-6971062,1060@nl.mcd.com
+1061,Helmond Deurneseweg,Deurneseweg 19,5709 AH,Helmond,Hugo Pieters,06-52093254,Supervisor,hugo.pieters@nl.mcd.com,0492-513226,1061@nl.mcd.com
+1062,Oosterhout Beneluxweg,Beneluxweg 1a,4904 SJ,Oosterhout,Ron Michels,06-55755022,General Manager,Renske.v.Mameren@nl.mcd.com,0162-432458,1062@nl.mcd.com
+1063,Bodegraven Goudseweg,Goudseweg 30,2411 HL,Bodegraven,Mr Wiresh Chotoe,06-22611632,Restaurant manager,wiresh.chotoe@nl.mcd.com,0172-650278,1063@nl.mcd.com
+1064,Waalwijk,Van Andelstraat 15,5141 PB,Waalwijk,,,,,0416-650839,1064@nl.mcd.com
+1065,Veldhoven Noordbrabantlaan,Noordbrabantlaan 350,5657 GA,Eindhoven,Jorg Verbart,06-55746064,Supervisor,jorg.verbart@nl.mcd.com,040-2571927,1065@nl.mcd.com
+1067,Meerkerk Energieweg,Energieweg 118,4231 DJ,Meerkerk,"ROODBERGEN,ED",06-55103663,Restaurant manager,marjolein.vlietstra@nl.mcd.com,0183-351704,1067@nl.mcd.com
+1069,Nederweert Randweg,Randweg 1,6031 RS,Nederweert,"SLENDERS,JAN",06-10092059,Adjunct Directeur,emile.bergmans@nl.mcd.com,0495-634794,1069@nl.mcd.com
+1070,Nieuwegein Ravenswade,Ravenswade 1,3439 LD,Nieuwegein,Jaouad Andich,030-6579050,Jaouad Andich,Jaouad.Andich@nl.mcd.com,030-2801120,1070@nl.mcd.com
+1071,Hoorn KleineWijzend,Kleine wijzend 1,1647 DT,Hoorn,Steven Staring,06-11135325,Restaurant manager,steven.staring@nl.mcd.com,0229-213375,1071@nl.mcd.com
+1072,Roosendaal Takspui,Takspui 2,4706 CM,Roosendaal,Wim Muntz,06-52623002,Supervisor,Wim.Muntz@nl.mcd.com,0165-555866,1072@nl.mcd.com
+1074,Alkmaar Robijnstraat,Robijnstraat 1,1812 RB,Alkmaar,Jorg Schlief,06-24095022,Director operations,jorg.schlief@nl.mcd.com,072-5404986,1074@nl.mcd.com
+1076,Almere Oorweg,Oorweg 7,1324 ZX,Almere Haven,Tim Zittersteijn,06-50603936,Supervisor,tim.zittersteijn@nl.mcd.com,036-5345370,1076@nl.mcd.com
+1080,Doetinchem Ettenseweg,Ettenseweg 1,7004 GX,Doetinchem,Nico Frentz,06-28828615,Director,Nico.Frentz@nl.mcd.com,0314-323335,1080@nl.mcd.com
+1081,Beverwijk Parallelweg,Parallelweg 122,1948 NN,Beverwijk,"BLOMBERG,PETER",06-26394107,Franchisee,adminkantoor.beverwijk@nl.mcd.com,0251-227072,1081@nl.mcd.com
+1082,Joure Sewei,Sewei 4,8501 SP,Joure,Roos Talman,06-46191791,Supervisor,Roos.Talman@nl.mcd.com,0513-416895,1082@nl.mcd.com
+1083,Hoogeveen (Rei Hoogeveen BV),Griendtsveenweg 38,7901 EA,Hoogeveen,Jolanda Peereboom,06-44800899,Supervisor,Jolanda.Peereboom@nl.mcd.com,0528-271810,1083@nl.mcd.com
+1085,Rotterdam Driemanssteeweg,Driemanssteeweg 10,3084 CB,Rotterdam,Deepti Dahiya,06-10680839,Restaurant manager,deepti.dahiya@nl.mcd.com,010-4801636,1085@nl.mcd.com
+1086,Beuningen Hadrianussingel,Hadrianussingel 37,6642 AH,Beuningen,John de Leede,06-19266337,Supervisor,john.d.leede@nl.mcd.com,024-6771055,1086@nl.mcd.com
+1088,Purmerend Verzetslaan,Verzetslaan 2,1447 XX,Purmerend,Maria Porcu,06-23120956,Restaurant manager,maria.porcu@nl.mcd.com,0299-470238,1088@nl.mcd.com
+1091,Almelo Woonboulevard,Woonboulevard 2,7606 JA,Almelo,Harold Asbroek,06-46247295,Franchisee,harold.asbroek@nl.mcd.com,0546-850494,1091@nl.mcd.com
+1092,Malden Rijksweg,Rijksweg 5,6581 EC,Malden,"SLEBUS,JAN",06-19266337,Supervisor,john.d.leede@nl.mcd.com,024-3563942,1092@nl.mcd.com
+1093,Barendrecht Waalsweg,Van der Waalsweg 21,2991 XN,Barendrecht,Jerry Joseph,06-15641465,Restaurant manager,jerry.joseph@nl.mcd.com,010-4836384,1093@nl.mcd.com
+1096,Best Eindhovenseweg Zuid,Eindhovenseweg Zuid 59,5683 PW,Best,Dave Manroop,06-46338186,Supervisor,dave.manroop@nl.mcd.com,0499-375333,1096@nl.mcd.com
+1097,Emmen Hoenderkamp,Hoenderkamp 1,7812 VZ,Emmen,Leroy Bunk,06-50730538,Restaurant manager,leroy.bunk@nl.mcd.com,0591-649000,1097@nl.mcd.com
+1098,Amsterdam Ijdoornlaan,IJdoornlaan 2001,1035 MZ,Amsterdam,Bart van der Capellen,06-50804622,Restaurant manager,bart.vd.capellen@nl.mcd.com,020-4930070,1098@nl.mcd.com
+1099,Leiderdorp Snoepweg,P. Snoepweg 10,2353 KA,Leiderdorp,MCOPCO,06-20408901,Restaurant manager,daphnis.low@nl.mcd.com,071-5899977,1099@nl.mcd.com
+1101,Maasbree Middenpeelweg,Middenpeelweg 6,5993 RK,Maasbree,Luc Faassen,06-48563166,Directeur,luc.faassen@nl.mcd.com,077-4651216,1101@nl.mcd.com
+1102,Den Haag Binckhorst,Binckhorstlaan 121,2516 BA,Den Haag,Daan Schoute,06-21554081,Restaurant manager,daan.schoute@nl.mcd.com,070-3816217,1102@nl.mcd.com
+1105,Geldermalsen Panweg,Panweg 5,4157 PB,Geldermalsen,Erik Eikelenstam,06-11340070,Restaurant manager,erik.eikelenstam@nl.mcd.com,0345-652360,1105@nl.mcd.com
+1106,Apeldoorn Lange Amerikaweg,Lange Amerikaweg 72,7332 BR,Apeldoorn zuid,Laurens Bontius,06-54767985,Supervisor,Laurens.Bontius@nl.mcd.com,055-5418753,1106@nl.mcd.com
+1107,Heesch Cereslaan,Cereslaan 18,5384 VT,Heesch,"PAKNEJAD,MOJI",06-51023353,Supervisor,Michael.Schakel@nl.mcd.com,0412-456232,1107@nl.mcd.com
+1109,McDonald's Hoogvliet,Aveling 9,3193 LC,Hoogvliet,Hadisa Sacic,06-21205801,Restaurant manager,hadisa.sacic@nl.mcd.com,010-4388311,1109@nl.mcd.com
+1111,Capelle Rhijnspoor,Rhijnspoor 299,2901 LB,Capelle a/d Ijssel,Hikmet Reyhan,06-55871003,Supervisor,hikmet.reyhan@nl.mcd.com,010-2023587,1111@nl.mcd.com
+1115,Zwolle Noord,Floresstraat 60,8022 AD,Zwolle,Dennis Trip,,,,038-4530003,1115@nl.mcd.com
+1118,Deventer Deventerweg,Deventerweg 121a,7418 DA,Deventer,Laurens Bontius,06-54767985,Supervisor,Laurens.Bontius@nl.mcd.com,0570-677666,1118@nl.mcd.com
+1119,Santpoort Vlietweg,Vlietweg 16,2071 KW,Santpoort- Noord,Danny Witteman,06-43009714,General manager,danny.witteman@nl.mcd.com,023-5385219,1119@nl.mcd.com
+1120,Meppel Blankenstein,Blankenstein 570,7943 PA,Meppel,Youssef el Mansouri,06-16177141,Restaurant manager,youssef.el.mansouri@nl.mcd.com,0522-262789,1120@nl.mcd.com
+1122,Den Haag De Werf - Escamplaan ?,De Werf 68,2544 EK,Den Haag,MCOPCO,,,,070-3660066,1122@nl.mcd.com
+1124,Hoofddorp Vuursteen,Vuursteen 5,2132 LZ,Hoofddorp,Senad Halilovic,06-46031326,Restaurant manager,Senad.Halilovic@nl.mcd.com,020-6535545,1124@nl.mcd.com
+1125,Alblasserdam Kelvinring,Kelvinring 46,2952 BG,Alblasserdam,Dick Bovekerk,06-53571640,Franchisee,dick.bovekerk@nl.mcd.com,078-6931595,1125@nl.mcd.com
+1126,Veenendaal Nieuweweg Noord,Nieuweweg Noord 266,3905 LX,Veenendaal,Laurens Bakker,06-46833770,Supervisor,laurens.bakker@nl.mcd.com,0318-528964,1126@nl.mcd.com
+1127,Spijkenisse Borgtweg,Borgtweg 2,3202 LJ,Spijkenisse,MCOPCO,06-21554098,Restaurant manager,najia.koudri@nl.mcd.com,0181-627544,1127@nl.mcd.com
+1128,Venlo Weselseweg,Weselseweg 1a,5916 RD,Venlo,Luc Faassen,06-48563166,Directeur,luc.faassen@nl.mcd.com,077-3511821,1128@nl.mcd.com
+1129,Heerlen Breukerweg,Breukerweg 200,6412 ZL,Heerlen,"HOCHSTENBACH,MARCEL",06-55302515,Franchisee,marcel.hochstenbach@nl.mcd.com,045-5232576,1129@nl.mcd.com
+1130,Tilburg Zuid,Mina Krusemanweg 4,5032 ME,Tilburg,Geert van Zon,06-53682086,,,013-5901983,1130@nl.mcd.com
+1131,Waardenburg Regterweistraat,Regterweistraat 1,4181 CE,Waardenburg,Erik Eikelenstam,06-11340070,Restaurant manager,erik.eikelenstam@nl.mcd.com,0418-652680,1131@nl.mcd.com
+1136,Vlaardingen Westlandseweg,Westlandseweg 280,3131 HX,Vlaardingen,Dijana Mustafalic,06-57576597,Restaurant manager,dijana.mustafalic@nl.mcd.com,010-2489263,1136@nl.mcd.com
+1137,Schiphol Noord,Loevesteinse randweg 200,1118 EL,Luchthaven Schiphol,Adnan Hodzic,06-50284785,Supervisor,adnan.hozic@nl.mcd.com,020-6570045,1137@nl.mcd.com
+1139,Delft Kleveringweg,Kleveringweg 2,2616 LZ,Delft,Taco van der Hoest,06-29430462,Restaurant manager,Taco.Hoest@nl.mcd.com,015-2133083,1139@nl.mcd.com
+1141,Assen Hof van Parijs,Het Hof van Parijs 1,9403 DA,Assen,Jolanda Peereboom,06-44800899,Supervisor,jolanda.peereboom@nl.mcd.com,0592-375090,1141@nl.mcd.com
+1153,Cuijck Raamweg,Raamweg 3,5431 NH,Cuijk,John de Leede,06-19266337,Supervisor,john.d.leede@nl.mcd.com,0485-350816,1153@nl.mcd.com
+1161,Capelle Hoofdweg,Hoofdweg 1,2908 LB,Capelle a/d Ijssel,Ivo van den Berg,06-10616323,Project leider,ivo.vd.berg@nl.mcd.com,010-4589400,1161@nl.mcd.com
+1165,Rosmalen Burgerslaan,Burg. Burgerslaan 48,5245 NH,Rosmalen,Ferdi van Liempd,06-21554022,,,073-5230881,1165@nl.mcd.com
+1168,Ijsselstein Lorentzlaan,Lorentzlaan 1,3401 MX,IJsselstein,Brahim Bouamar,06-29486288,1ste assistent,brahim.bouamar@nl.mcd.com,030-6874893,1168@nl.mcd.com
+1169,Leeuwarden Bredijk,Bredijk 1,9084 AG,Goutum,Peter Bais,058-2880030,Senior manager,1169@nl.mcd.com,058-2880030,1169@nl.mcd.com
+1170,Den Helder Verkeerrest.n,Verkeerrest.n 2,1786 PN,Den Helder,Jorg Schlief,06-24095022,Director operations,jorg.schlief@nl.mcd.com,0223-668668,1170@nl.mcd.com
+1171,Gorinchem Franklinweg,Franklinweg 3,4207 HX,Gorinchem,Ferry Grinwis,06-46323612,Restaurant manager,ferry.grinwis@nl.mcd.com,0183-699176,1171@nl.mcd.com
+1173,Amersfoort Noord,Maanlander 30,3824 MP,Amersfoort,,,,,033-4557750,1173@nl.mcd.com
+1183,Kerkrade Euregiopark,Euregiopark 6,6467 JE,Kerkrade,Marcel Hochstenbach,06-55302515,Franchisee,marcel.hochstenbach@nl.mcd.com,045-5660680,1183@nl.mcd.com
+1184,Heerhugowaard Duikerweg,J. Duikerweg 21,1703 DH,Heerhugowaard,"PACH,RICHARD",06-24095022,Director operations,jorg.schlief@nl.mcd.com,072-5725120,1184@nl.mcd.com
+1185,Heerde Eperweg,Eperweg 55b,8181 EV,Heerde,Sjoerd-Jan Feenstra,06-52372760,Franchisee,sjoerd-jan.feenstra@nl.mcd.com,0578-696987,1185@nl.mcd.com
+1194,Zutphen Hermesweg,Hermesweg 10,7202 BR,Zutphen,Laurens Bontius,06-54767985,Supervisor,Laurens.Bontius@nl.mcd.com,0575-513528,1194@nl.mcd.com
+1195,Groningen Atoomweg,Atoomweg 1,9743 AJ,Groningen,Lourens de Boer,050-3117996,Restaurant manager,l.d.boer@nl.mcd.com,050-3117996,1195@nl.mcd.com
+1197,Ede Arnhemseweg,Arnhemseweg 2A,6711 HA,Ede,"KAMMINGA,JACK",06-46833770,Supervisor,laurens.bakker@nl.mcd.com,0318-694153,1197@nl.mcd.com
+1198,Enkhuizen Dolfijn,De Dolfijn 2A,1601 MG,Enkhuizen,Said Chbab,06-29626925,Franchisee,said.chbab@nl.mcd.com,0228-321700,1198@nl.mcd.com
+1202,Geldrop,Barrier 10,5664 ES,Geldrop,Duco van de Veen,06-52591232,Bouw Coordinator,duco.vd.veen@nl.mcd.com,040-2868152,1202@nl.mcd.com
+1205,Landgraaf Brunsummerweg,Brunssummerweg 138,6373 EZ,Landgraaf,Marcel Hochstenbach,06-55302515,Franchisee,marcel.hochstenbach@nl.mcd.com,045-5313013,1205@nl.mcd.com
+1210,Sittard Lissabonlaan,Lissabonlaan 6,6135 LE,Sittard,Nick Willems,06-11204469,Franchisee,nick.willems@nl.mcd.com,046-4861170,1210@nl.mcd.com
+1211,Barneveld,Zelderseweg 67,3784 LN,Terschuur,MCOPCO,,,,0342-461235,1211@nl.mcd.com
+1212,Echt Zuiderpoort,Zuiderpoort 71,6101 KA,Echt,"SLENDERS,JAN",06-10092059,Adjunct Directeur,emile.bergmans@nl.mcd.com,0475-410002,1212@nl.mcd.com
+1216,Maastricht Helmstraat,Helmstraat 16,6211 TA,Maastricht,Darwin Slenders,06-30085486,Supervisor,darwin.slenders@nl.mcd.com,043-3100000,1216@nl.mcd.com
+1221,Terneuzen Informaticaweg,Informaticastraat 5,4538 BT,Terneuzen,Abby de Kam,06-52623005,Franchisee,abby.d.kam@nl.mcd.com,0115-618902,1221@nl.mcd.com
+1223,Winterswijk Europark,Europark 26,7102 AM,Winterswijk,"BRAAF,WILLEM",06-22621188,General Manager,natasja.v.bokhorst@nl.mcd.com,0543-534196,1223@nl.mcd.com
+1224,Schagen Grote Wallerweg,Grote Wallerweg 2M,1742 NM,Schagen,Jorg Schlief,06-24095022,Director operations,jorg.schlief@nl.mcd.com,0224-291406,1224@nl.mcd.com
+1226,Hardenberg Stelling,Stelling 2,7773 ND,Hardenberg,Ester Burgerhoudt,06-30846676,Restaurant manager,esther.burgerhoudt@nl.mcd.com,0523-648635,1226@nl.mcd.com
+1233,Almere Montrealstraat,Montrealstraat 120,1334 KL,Almere-Buiten,Tim Zittersteijn,06-50603936,Supervisor,tim.zittersteijn@nl.mcd.com,036-5327509,1233@nl.mcd.com
+1236,Tilburg Reeshof,Aphroditestraat 18,5047 TW,Tilburg,Marcel de Rooij,06-34133838,Restaurant manager,marcel.d.rooij@nl.mcd.com,013-5030956,1236@nl.mcd.com
+1237,Nijkerk Smitspol,Smitspol 7,3861 RS,Nijkerk,Niels Haitsma,06-38308274,Project manager,niels.haitsma@nl.mcd.com,033-2458887,1237@nl.mcd.com
+1241,Maasdijk,Blauwhek 6,2676 NB,Maasdijk,MCOPCO,,,,0174-725012,1241@nl.mcd.com
+1242,Zoetermeer Zilverstraat,Zilverstraat 2,2718 RL,Zoetermeer,Darcy Balzouman,06-34580182,Director operations,Darcy.Balzouman@nl.mcd.com,079-3615116,1242@nl.mcd.com
+1245,Etten-Leur Trivium,Trivium 180,4873 LP,Etten-Leur,Wim Muntz,06-52623002,Supervisor,wim.mutz@nl.mcd.com,076-5013395,1245@nl.mcd.com
+1254,Ochten Cuneraweg,Cuneraweg 13,4051 CE,Ochten,Frank Janssen Daalen,06-46351724,Franchisee,frank.janssendaalen@nl.mcd.com,0344-642731,1254@nl.mcd.com
+1255,Oosterhout-Noord Innovatiepark,Innovatiepark 5,4906 AA,Oosterhout,Alex Vissers,06-27841857,Franchisee,alex.vissers@mnl.mcd.com,0162-495066,1255@nl.mcd.com
+1256,Zwolle Huub van Doornestraat,Huub van Doornestraat 8,8013 NR,Zwolle,Sjoerd-Jan Feenstra,na,na,sjoerd-jan.feenstra@nl.mcd.com,038-4609244,1256@nl.mcd.com
+1258,Steenwijk Woldmeenthrand,Woldmeentherand 21,8332 JE,Steenwijk,Samantha Boele,06-22487731,Restaurant manager,samantha.boele@nl.mcd.com,0521-520130,1258@nl.mcd.com
+1262,Almelo Oost,Laan van Iserlohn 2,7607 PR,Almelo,Harold Asbroek,06-46247295,Franchisee,harold.asbroek@nl.mcd.com,0546-850044,1262@nl.mcd.com
+1263,Bergen op Zoom Binnenschelde,De Boulevard Noord 8,4617 HD,Bergen op Zoom,Marc Wagemans,06-55397052,Franchisee,Marc.Wagemans@nl.mcd.com,0164-263720,1263@nl.mcd.com
+1265,Alphen aan den Rijn Gouwelandenlaan,Gouwenlandelaan 15,2408 ZG,Alphen aan de Rijn,Dennis van leeuwen,06-51120803,Supervisor,dennis.v.leeuwen@nl.mcd.com,0172-491781,1265@nl.mcd.com
+1268,Zoetermeer Kelvinstraat,Kelvinstraat 1,2723 RJ,Zoetermeer,Darcy Balzouman,06-34580181,Director operations,Darcy.Balzouman@nl.mcd.com,079-3427154,1268@nl.mcd.com
+1276,Zaandam Zuid,Stormhoek 1,1506 SW,Zaandam,Peter de Groot,06-21554023,Franchisee,peter.d.groot@nl.mcd.com,075-6318852,1276@nl.mcd.com
+1277,Harlingen Fahrenheidstraat,Fahrenheitstraat 3,8861 NH,Harlingen,Priscilla Groenewegen,06-12748906,Supervisor,priscilla.groenewegen@nl.mcd.com,0517-433773,1277@nl.mcd.com
+1280,Kampen Zambonistraat,Zambonistraat 7,8263 CE,Kampen,Sjoerd-Jan Feenstra,na,na,sjoerd-jan.feenstra@nl.mcd.com,038-3335988,1280@nl.mcd.com
+1283,Nieuwegein Symfonielaan,Symfonielaan 3,3438 EX,Nieuwegein,"NIEL,DENNIS VAN",06-52851335,2de Assistant,leon.martosoedarmo@nl.mcd.com,030-6047272,1283@nl.mcd.com
+1285,Apeldoorn Anklaarseweg,Anklaarseweg 125,7317 AS,Apeldoorn Noord,Laurens Bontius,06-54767985,Supervisor,Laurens.Bontius@nl.mcd.com,055-5766854,1285@nl.mcd.com
+1286,Tegelen Arientstraat,Arientstraat 98,5912 PZ,Tegelen,Luc Faassen,06-48563166,Directeur,luc.faassen@nl.mcd.com,077-3732626,1286@nl.mcd.com
+1287,Arnhem Pleijroute,Ringoven 13,6826 TP,Arnhem,Nico Frentz,06-28828615,Director,Nico.Frentz@nl.mcd.com,026-3619247,1287@nl.mcd.com
+1288,Oud Gastel Emmerblok,Emmerblok 2,4751 XE,Oud Gastel,Wim Muntz,06-52623002,Supervisor,Wim.Muntz@nl.mcd.com,0165-537504,1288@nl.mcd.com
+1295,Sassenheim Stationslaan,Stationslaan 1,2171 KW,Sassenheim,Dennis van leeuwen,06-51120803,Supervisor,dennis.v.leeuwen@nl.mcd.com,0252-220655,1295@nl.mcd.com
+1297,Zoetermeer Prisma,Jadestraat 10,2665 NS,Bleiswijk,Darcy Balzouman,06-34580181,Directeur operations,Darcy.Balzouman@nl.mcd.com,010 313 24 91,1297@nl.mcd.com
+1300,Enschede Zuiderval,Spaansland 2,7543 BG,Enschede,Natasja v. Bokhorst,06-22621188,General manager,natasja.v.bokhorst@nl.mcd.com,053-4358510,1300@nl.mcd.com
+1304,Leiden Zuid,Rooseveltstraat 80,2321 BM,Leiden,Dennis van leeuwen,06-51120803,Supervisor,dennis.v.leeuwen@nl.mcd.com,071-3031556,1304@nl.mcd.com
+1306,Breda Bavelseparklaan,Bavelseparklaan 6,4817 ZX,Breda,Wim Muntz,06-52623002,Supervisor,wim.muntz@nl.mcd.com,076- 3033520,1306@nl.mcd.com
+1310,Rijswijk Plaspoelpolder,Polakstraat 2,2288 GE,Rijswijk,,,,,070-2050272,1310@nl.mcd.com
+1311,Gronsveld,Burgemeester Frans Cortenraadstraat 12A,6247 NZ,Gronsveld,Nick Willems,06-11204469,Supervisor,nick.willems@nl.mcd.com,043-4084888,1311@nl.mcd.com
+1314,Harderwijk Knardijk West,Knardijk West 4,3841 LA,Harderwijk,Anke Gerritsen,,,,0341-2230888,1314@nl.mcd.com
+1315,Uden Drive,Voskestraat 3,5406 PN,Uden,Sjef Speekenbrink,06-21554054,Projectmanager Bouw,sjef.speekenbrink@nl.mcd.com,,1315@nl.mcd.com
+1316,Arnhem Centraal,Oude Stationsstraat 30,6811 KE,Arnhem,Nico Frentz,06-28828615,Directeur,Nico.Frentz@nl.mcd.com,026-3031602,1316@nl.mcd.com
+1317,Uithoorn Zijdelweg,Zijdelweg 15A,1187 ZM,Amstelveen,Mitchell Stuurman,06-13137747,Assistant Restaurant manager,mitchell.stuurman@nl.mcd.com,020-2382555,1317@nl.mcd.com
+1318,Sneek Drive,Wolkammersstraat 8,8601 VB,Sneek,,,,,,1318@nl.mcd.com
+1321,Hilversum Vreelandseweg,Vreelandseweg 42-46,1216 CA,Hilversum,,,,,035-3038175,1321@nl.mcd.com
+1322,McDonald's Parkboulevard Exploitatie BV,Vierhavensstraat 197,3029 BB,Rotterdam,Abdel Mokhtari,06-10357977,Supervisor,Abdel.Mokhtari@nl.mcd.com,010-3031936,1322@nl.mcd.com
+1324,Deventer de Scheg,Piet van Donkplein 12,7422 LX,Deventer,Laurens Bontius,06-54767985,Supervisor,Laurens.Bontius@nl.mcd.com,######,1324@nl.mcd.com
+1326,Utrecht Gildenkwartier,Gildenkwartier 195,3511 DH,Utrecht,Pieter Honing,06-21554031,Franchisee,pieter.honing@nl.mcd.com,030-2314326,1326@nl.mcd.com
+1327,Leiden A44,Oude Rhijnhofweg 24,2342 BB,Oegstgeest,Stefan van de Voort,06-12025291,Project leider,stefan.vd.voort@nl.mcd.com,######,1327@nl.mcd.com
+1328,Park 15 Oosterhout,Rietgraaf 15,6678 PJ,Oosterhout,,,,,0481-745240,1328@nl.mcd.com
+1331,Nijmegen Novium,Wijchenseweg 202,6538 SX,Nijmegen,Ron Evers,06-51170093,Franchisee,ron.evers@nl.mcd.com,######,1331@nl.mcd.com
+1332,Hardinxveld Giessendam,Peulenlaan 263,3371 XL,Hardinxveld-Giessendam,Stefan van de Voort,06-12025291,Projectmanager,stefan.vd.voort@nl.mcd.com,,1332@nl.mcd.com
+1333,Goes,Hudsonweg 25,4462 HJ,Goes,Stefan van de Voort,06-12025291,Project leider,stefan.vd.voort@nl.mcd.com,######,1333@nl.mcd.com
+1336,Ter Borch,Orientatielaan 1,9766 ZA,Eelderwolde (Tynaarlo),Lourens de Boer,06-52670997,Restaurant manager,l.d.boer@nl.mcd.com,######,1336@nl.mcd.com

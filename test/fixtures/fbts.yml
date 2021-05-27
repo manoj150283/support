@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  project: MyString
+  status: MyString
+  radius_poc: MyString
+  support_engineer: MyString
+  equipment: MyString
+  warranty_start_date: MyString
+  number_of_locations: MyString
+  support_coverage: MyString
+  sla: MyString
+  tent_set_type: MyString
+
+two:
+  project: MyString
+  status: MyString
+  radius_poc: MyString
+  support_engineer: MyString
+  equipment: MyString
+  warranty_start_date: MyString
+  number_of_locations: MyString
+  support_coverage: MyString
+  sla: MyString
+  tent_set_type: MyString

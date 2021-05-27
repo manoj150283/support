@@ -1,0 +1,2 @@
+class Fbc < ApplicationRecord
+end

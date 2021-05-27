@@ -1,0 +1,135 @@
+
+<div class="jumbotron">
+  <h1 class="display-4"><p>
+    <strong>Project:</strong>
+    <%= @fbc.project %>
+  </p>
+
+  <p>
+    <strong>Status:</strong>
+    <%= @fbc.status %>
+  </p>
+</h1>
+  <p class="lead">
+    <p>
+      <strong>Project:</strong>
+      <%= @fbc.project %>
+    </p>
+
+    <p>
+      <strong>Status:</strong>
+      <%= @fbc.status %>
+    </p>
+
+    <p>
+      <strong>CSM:</strong>
+      <%= @fbc.CSM %>
+    </p>
+
+    <p>
+      <strong>Support Engineer:</strong>
+      <%= @fbc.Support_Engineer %>
+    </p>
+
+    <p>
+      <strong>Equipment:</strong>
+      <%= @fbc.Equipment %>
+    </p>
+
+    <p>
+      <strong>Warranty Start Date:</strong>
+      <%= @fbc.Warranty_Start_Date %>
+    </p>
+
+    <p>
+      <strong>Staff Dashboard:</strong>
+      <%= @fbc.Staff_Dashboard %>
+    </p>
+
+    <p>
+      <strong>Live Locations:</strong>
+      <%= @fbc.Live_Locations %>
+    </p>
+
+    <p>
+      <strong>Total Locations:</strong>
+      <%= @fbc.Total_Locations %>
+    </p>
+
+    <p>
+      <strong>Support Coverage:</strong>
+      <%= @fbc.Support_Coverage %>
+    </p>
+
+    <p>
+      <strong>SLA:</strong>
+      <%= @fbc.SLA %>
+
+  </p>
+  <hr class="my-4">
+
+  <%= link_to 'Edit', edit_fbc_path(@fbc), class:"btn
+  btn-secondary" %>
+  <%= link_to 'Back', fbcs_path,
+  class:"btn btn-dark" %>
+</div>
+
+<p>
+  <strong>Project:</strong>
+  <%= @fbc.project %>
+</p>
+
+<p>
+  <strong>Status:</strong>
+  <%= @fbc.status %>
+</p>
+
+<p>
+  <strong>Csm:</strong>
+  <%= @fbc.CSM %>
+</p>
+
+<p>
+  <strong>Support engineer:</strong>
+  <%= @fbc.Support_Engineer %>
+</p>
+
+<p>
+  <strong>Equipment:</strong>
+  <%= @fbc.Equipment %>
+</p>
+
+<p>
+  <strong>Warranty start date:</strong>
+  <%= @fbc.Warranty_Start_Date %>
+</p>
+
+<p>
+  <strong>Staff dashboard:</strong>
+  <%= @fbc.Staff_Dashboard %>
+</p>
+
+<p>
+  <strong>Live locations:</strong>
+  <%= @fbc.Live_Locations %>
+</p>
+
+<p>
+  <strong>Total locations:</strong>
+  <%= @fbc.Total_Locations %>
+</p>
+
+<p>
+  <strong>Support coverage:</strong>
+  <%= @fbc.Support_Coverage %>
+</p>
+
+<p>
+  <strong>Sla:</strong>
+  <%= @fbc.SLA %>
+</p>
+
+<%= link_to 'Edit', edit_fbc_path(@fbc), class:"btn
+btn-secondary" %>
+<%= link_to 'Back', fbcs_path,
+class:"btn btn-dark" %>

@@ -1,0 +1,2082 @@
+Table 1
+Country,ABBR.,McDonald's Contact,Install Partner,Tier 1 Support Partner,Tier 2 Support Partner,Hardware Support Partner,Hardware Procurement Contact,Radius Networks Contact / CSM,Tent Set Type,Warranty Coverage,
+-,-,Point of contact for the market,Handles only initial installations,Takes initial call from a store,Takes escalations from tier 1,Provides parts for RMAs and in warranty shipments,Purchases new parts (installs and out of warranty),PM assigned to the market,Current tent design and number range,,
+Australia,AU,"PoC: Steven Bucello 
+Phone: +61 422 477 403
+Email: steven.bucello@au.mcd.com","Company: Fujitsu
+PoC: Darshan Chavda
+Phone: +61 428 047 127
+Email: darshan.chavda@au.fujitsu.com","Company: Cap Gemini
+PoC: 
+Phone: 
+Email: ","Company: Fujitsu
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: Fujitsu
+PoC: Luke Barnier
+Phone: (61) 418 637 466
+Email: luke.barnier@au.fujitsu.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: Australia Custom
+Number Range: 101-200",,
+Bahamas,BS,"PoC: 
+Phone: 
+Email: ","Company: SAR LATAM
+PoC: Ivan Apopa
+Phone: +502 4149 7964
+Email: ivan.apopa@mcd.com.gt","Company: SAR LATAM
+PoC: [Help Desk]
+Phone: +502 2285 7715
+Email: soporte.remoto@sarlatam.com","Company: SAR LATAM
+PoC: [Help Desk]
+Phone: +502 2285 7715
+Email: soporte.remoto@sarlatam.com","Company: SAR LATAM
+PoC: Ruben Garcia
+Phone: +502 5717 8214
+Email: ruben.garcia@sar.com.gt","Company: 
+PoC: 
+Phone: 
+Email: ","PoC: 
+Email: ","Tent Design: 
+Number Range: ",,
+Belgium,BE,"PoC: Salaheddine Gueddah
+Phone: +32474813356
+Email: salaheddine.gueddah@be.mcd.com","Company: Hapbit
+PoC: Filip Depreter
+Phone:  +32 (0)484 53 11 19
+Email: filip.depreter@hapbit.be","Company: Hapbit
+PoC: Filip Depreter
+Phone:  +32 (0)484 53 11 19
+Email: filip.depreter@hapbit.be","Company: Hapbit
+PoC: Filip Depreter
+Phone:  +32 (0)484 53 11 19
+Email: filip.depreter@hapbit.be","Company: Hapbit
+PoC: Filip Depreter
+Phone:  +32 (0)484 53 11 19
+Email: filip.depreter@hapbit.be","Company: Hapbit
+PoC: Veronique Jonkers
+Phone: n/a
+Email: veronique.jonkers@hapbit.be","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: GANL
+Number Range: 1-60",,
+Bosnia,BA,"PoC: Bojan Skipina
+Phone: n/a
+Email: bojan.skipina@mcdbih.ba","Company: Fratello
+PoC: Slobodan
+Phone: 
+Email: ","Company: Fratello
+PoC: Slobodan
+Phone: 
+Email: ","Company: Fratello
+PoC: Slobodan
+Phone: 
+Email: ","Company: Fratello
+PoC: Slobodan
+Phone: 
+Email: ","Company: McDonald's
+PoC: Bojan Skipina
+Phone: n/a
+Email: bojan.skipina@mcdbih.ba","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+Brazil,BR,"PoC: Vagner Silva
+Phone: (55) 11 97277 3835
+Email: vagner.silva@br.mcd.com","Company: NCR
+PoC: 
+Phone: 
+Email: ","Company: Fujitsu
+PoC: [Help Desk]
+Phone: +55 (11) 2424-4275 
+Email: monitoria@br.fujitsu.com","Company: Fujitsu
+PoC: 
+Phone: 
+Email: ","Company: NCR
+PoC: 
+Phone: 
+Email: ","Company: Forquorte
+PoC: 
+Phone: 
+Email: ","PoC: Keith Yoder
+Email: keith@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-100",,
+Canada,CA,"PoC: Natalie Leung
+Phone: n/a
+Email: natalie.leung@ca.mcd.com","Company: NCR 
+PoC: John Pilleci
+Phone: n/a
+Email: john.pilleci@ncr.com","Company: McDonald's
+PoC: [Help Desk]
+Phone: 1-855-553-8110
+Email: servicedesk@post.mcdonalds.ca","Company: McDonald's
+PoC: [Help Desk]
+Phone: 1-855-553-8110
+Email: servicedesk@post.mcdonalds.ca","Company: Fujitsu 
+PoC: James Cataldo
+Phone: n/a
+Email: james.cataldo@fujitsu.com","Company: NCR
+PoC: Christina Frank
+Phone: (905) 819 4234
+Email: christina.frank@ncr.com","PoC: Brian Corcoran
+Email: brian@radiusnetworks.com","Tent Design: Canada Custom
+Number Range: 1-60",,
+China,CN,"PoC: Kevin Guo
+Phone: (595) 974 200314
+Email: kevin.guo@cn.mcd.com","Company: NCR CN
+PoC: Shi Wei
+Phone: n/a
+Email: wei.shi@ncr.com","Company: 
+PoC: 
+Phone: 
+Email: ","Company: NCR CN
+PoC: Shi Wei
+Phone: n/a
+Email: wei.shi@ncr.com","Company: NCR CN
+PoC: Shi Wei
+Phone: n/a
+Email: wei.shi@ncr.com","Company: NCR
+PoC: Elsa Wang
+Phone: n/a
+Email: elsa.wang@ncr.com","PoC: 
+Email: ","Tent Design: China Custom
+Number Range: ",,
+Cyprus,CY,"PoC: Demetris Archeos
+Phone: +35799123011
+Email: demetris.archeos@mcdonalds.com.cy","Company: McDonald's Cyprus
+PoC: Demetris Archeos
+Phone: +35799123011
+Email: demetris.archeos@mcdonalds.com.cy","Company: McDonald's Cyprus
+PoC: Demetris Archeos
+Phone: +35799123011
+Email: demetris.archeos@mcdonalds.com.cy","Company: McDonald's Cyprus
+PoC: Demetris Archeos
+Phone: +35799123011
+Email: demetris.archeos@mcdonalds.com.cy","Company: McDonald's Cyprus
+PoC: Demetris Archeos
+Phone: +35799123011
+Email: demetris.archeos@mcdonalds.com.cy","Company: McDonald's
+PoC: Demetris Archeos
+Phone: 0035799123011
+Email: demetris.archeos@mcdonalds.com.cy","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+Czech Republic,CZ,"PoC: Jan Zalud
+Phone: +420 6066 56477
+Email: jan.zalud@cz.mcd.com","Company: Autocont
+PoC: Ondřej Papež
+Phone: n/a
+Email: ondrej.papez@autocont.cz","Company: Autocont
+PoC: [Help desk]
+Phone: +420 221 022 580
+Email: xsiebel@autocont.cz","Company: Autocont
+PoC: Ondřej Papež
+Phone: n/a
+Email: ondrej.papez@autocont.cz","Company: Autocont
+PoC: Ondřej Papež
+Phone: n/a
+Email: ondrej.papez@autocont.cz","Company: 
+PoC: Dominika
+Phone: 
+Email: ","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+Domican Republic,DR,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","PoC: Brian Corcoran
+Email: brian@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+El Salvador,SV,"PoC: Willy Moralas
+Phone: (502) 2285 7700
+Email: willy.morales@mcd.com.gt","Company: SAR LATAM
+PoC: Ivan Apopa
+Phone: +502 4149 7964
+Email: ivan.apopa@mcd.com.gt","Company: SAR LATAM
+PoC: [Help Desk]
+Phone: +502 2285 7715
+Email: soporte.remoto@sarlatam.com","Company: SAR LATAM
+PoC: Ruben Garcia
+Phone: (502) 5717 8215
+Email: ruben.garcia@sar.com.gt","Company: SAR LATAM
+PoC: Ruben Garcia
+Phone: +502 5717 8214
+Email: ruben.garcia@sar.com.gt","Company: SAR LATAM
+PoC: Manuel Giron
+Phone: (502) 2285 7700
+Email: manuel.giron@sar.com.gt","PoC: Brian Corcoran
+Email: brian@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+Egypt,EG,"PoC: Alaa Hegazy
+Phone: 02 2736 13 35 - Ext. 230
+Email: ahegazi@mcdegypt.com","Company: NCR Egypt
+PoC: Walid Heikal
+Phone: 971561148085
+Email: walidmohammed.Heikal@ncr.com","Company: NCR Egypt
+PoC: Rami Georges
+Phone: 00201001748011
+Email: rami.georges@ncr.com","Company: NCR Egypt
+PoC: Amir Adib
+Phone: 00201006673021
+Email: amir.adib@ncr.com","Company: NCR Egypt
+PoC: Akram Mahmoud
+Phone: n/a
+Email: akram.mahmoud@ncr.com","Company: NCR
+PoC: Nehad Elkhateb
+Phone: 002 01005098851
+Email: nehad.elkhateb@ncr.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+Georgia,GE,"PoC: Nika Mgebrishvili
+Phone: nmgebrishvili@mcdonalds.ge
+Email: +995 577 600 066","Company: ITCS
+PoC: Eka Mskhiladze
+Phone: +995 32 2982203
+Email: eka.mskhiladze@itcs.com.ge","Company: ITCS
+PoC: Eka Mskhiladze
+Phone: +995 32 2982203
+Email: eka.mskhiladze@itcs.com.ge","Company: ITCS
+PoC: Eka Mskhiladze
+Phone: +995 32 2982203
+Email: eka.mskhiladze@itcs.com.ge","Company: ITCS
+PoC: Eka Mskhiladze
+Phone: +995 32 2982203
+Email: eka.mskhiladze@itcs.com.ge","Company: 
+PoC: 
+Phone: 
+Email: ","PoC: 
+Email: ","Tent Design: 
+Number Range: ",,
+Germany,DE,"PoC: Marcel Kolb
+Phone: 49 170 3831498
+Email: marcel.kolb@de.mcd.com","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+Guatemala,GT,"PoC: Willy Morales
+Phone: +502 2285 7700
+Email: willy.morales@mcd.com.gt","Company: SAR LATAM
+PoC: Ivan Apopa
+Phone: +502 4149 7964
+Email: ivan.apopa@mcd.com.gt","Company: SAR LATAM
+PoC: [Help Desk]
+Phone: +502 2285 7715
+Email: soporte.remoto@sarlatam.com","Company: SAR LATAM
+PoC: Ruben Garcia
+Phone: (502) 5717 8215
+Email: ruben.garcia@sar.com.gt","Company: SAR LATAM
+PoC: Ruben Garcia
+Phone: +502 5717 8214
+Email: ruben.garcia@sar.com.gt","Company: SAR LATAM
+PoC: Manuel Giron
+Phone: (502) 2285 7700
+Email: manuel.giron@sar.com.gt","PoC: Brian Corcoran
+Email: brian@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+Honduras,HN,"PoC: Willy Morales
+Phone: +502 2285 7700
+Email: willy.morales@mcd.com.gt","Company: SAR LATAM
+PoC: Ivan Apopa
+Phone: +502 4149 7964
+Email: ivan.apopa@mcd.com.gt","Company: SAR LATAM
+PoC: [Help Desk]
+Phone: +502 2285 7715
+Email: soporte.remoto@sarlatam.com","Company: SAR LATAM
+PoC: Ruben Garcia
+Phone: (502) 5717 8215
+Email: ruben.garcia@sar.com.gt","Company: SAR LATAM
+PoC: Ruben Garcia
+Phone: +502 5717 8214
+Email: ruben.garcia@sar.com.gt","Company: SAR LATAM
+PoC: Manuel Giron
+Phone: (502) 2285 7700
+Email: manuel.giron@sar.com.gt","PoC: Brian Corcoran
+Email: brian@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+Hong Kong,HK,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","PoC: 
+Email: ","Tent Design: 
+Number Range: ",,
+Hungary,HU,"PoC: Vilmos Bencsok
+Phone: +36 30 383 2872
+Email: vilmos.bencsok@hu.mcd.com","Company: BBOX
+PoC: Donát Elmjer
+Phone: 36 305 957 690
+Email: d.elmajer@bbox.hu","Company: BBOX
+PoC: Donát Elmjer
+Phone: 36 305 957 690
+Email: d.elmajer@bbox.hu","Company: BBOX
+PoC: József Kádár
+Phone: 36 307 164 796
+Email: j.kadar@bbox.hu","Company: BBOX
+PoC: Tomás Schaller
+Phone: n/a
+Email: t.schaller@bbox.hu","Company: BBOBX
+PoC: Mihály Muránszky
+Phone: n/a
+Email: m.muranszky@bbox.hu","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-160",,
+India,IN,"PoC: Shivprasad Bale
+Phone: n/a
+Email: shivab@mcdonaldsindia.com","Company: McDonald's
+PoC: Puneet Ahuja
+Phone: 965 0196 717
+Email: puneet.ahuja@ncr.com","Company: NCR
+PoC: Sreejith Nair
+Phone: n/a
+Email: sreejith.nair2@ncr.com","Company: NCR
+PoC: Sreejith Nair
+Phone: n/a
+Email: sreejith.nair2@ncr.com","Company: NCR
+PoC: Sreejith Nair
+Phone: n/a
+Email: sreejith.nair2@ncr.com","Company: McDonald's
+PoC: Siddhesh Sawant
+Phone: 022 - 4913 5065
+Email: siddhesh.sawant@mcdonaldsindia.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+Indonesia,ID,"PoC: Agung Wibowo
+Phone: (628) 111 022293
+Email: agung.wibowo@id.mcd.com","Company: McDonald's
+PoC: Agung Julianto
+Phone: (628) 1119 27703
+Email: agung.julianto@id.mcd.com","Company: NCR
+PoC: 
+Phone: 08001181818
+Email: ja250193@ncr.com","Company: NCR
+PoC: 
+Phone: n/a
+Email: it.support@id.mcd.com","Company:
+PoC: 
+Phone: 
+Email: ","Company: NCR
+PoC: Tino Suprihatni
+Phone: (628) 1710 9777
+Email: tino.suprihatini@ncr.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+Israel,IL,"PoC: Avner Mazig
+Phone: n/a
+Email: avner@mcdonalds.co.il","Company: McDonald's
+PoC: Avner Mazig
+Phone: n/a
+Email: avner@mcdonalds.co.il","Company: McDonald's
+PoC: Avner Mazig
+Phone: n/a
+Email: avner@mcdonalds.co.il","Company: McDonald's
+PoC: Avner Mazig
+Phone: n/a
+Email: avner@mcdonalds.co.il","Company: McDonald's
+PoC: Avner Mazig
+Phone: n/a
+Email: avner@mcdonalds.co.il","Company: McDonald's
+PoC: Gil Ravid
+Phone: +97299711443
+Email: gil@mcdonalds.co.il","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: Israel Custom
+Number Range: 1-60",,
+Italy,IT,"PoC: Andrea Mariani
+Phone: +39 348 0750858
+Email: andrea.mariani@it.mcd.com","Company: Diebold Nixdorf
+PoC: Massimo Starnella
+Phone: +39 335 5490531
+Email: massimo.starnella@dieboldnixdorf.com","Company: Timeware
+PoC: [Help Desk]
+Phone: 800185014
+Email: n/a","Company: Timeware
+PoC: 
+Phone: 
+Email: ","Company: Diebold Nixdorf
+PoC: Massimo Starnella
+Phone: +39 335 5490531
+Email: massimo.starnella@dieboldnixdorf.com","Company: Diebold Nixdorf
+PoC: Monica Di Matteo
+Phone: +39 348 256 74 14
+Email: monica.dimatteo@dieboldnixdorf.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: Italy Custom
+Number Range: 101-180",,
+Japan,JP,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","PoC: 
+Email: ","Tent Design: 
+Number Range: ",,
+Jordan,JO,"PoC: Zaid Armoush
+Phone: 962 79 5140401
+Email: z.armoush@mcdjo.com","Company: McDonald's
+PoC: Mohammed Albulbul
+Phone: 962 77 5451177
+Email: m.albulbul@mcdjo.com","Company: McDonald's
+PoC: Mohammed Albulbul
+Phone: 962 77 5451177
+Email: m.albulbul@mcdjo.com","Company: McDonald's
+PoC: Mohammed Albulbul
+Phone: 962 77 5451177
+Email: m.albulbul@mcdjo.com","Company: McDonald's
+PoC: Mohammed Albulbul
+Phone: 962 77 5451177
+Email: m.albulbul@mcdjo.com","Company: McDonald's
+PoC: Mohammed Albulbul
+Phone: 962 77 5451177
+Email: m.albulbul@mcdjo.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-100",,
+Kazakhstan,KZ,"PoC: Alexander Ten
+Phone: +77772471752
+Email: alexander.ten@kz.mcd.com","Company: CCRS
+PoC: Andrey Hofman
+Phone: 87273113895
+Email: a.gofman@ccrskz.kz","Company: CCRS
+PoC: [Help Desk]
+Phone: 8 727 3112471
+Email: mcdsupport@ccrskz.kz","Company: CCRS
+PoC: [Help Desk]
+Phone: 8 700 687 02 08
+Email: mcdsupport@ccrskz.kz","Company: 
+PoC: 
+Phone: 
+Email: ","Company: CCRS
+PoC: Vyacheslav Ten
+Phone: 8 727 311 38 96
+Email: v.ten@ccrskz.kz","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+Kuwait,KW,"PoC: Pramod Mohan
+Phone: 965 99224487
+Email: pramod@mcdonalds-kuwait.com","Company: White Systems
+PoC: Mohammed Hashim K.P
+Phone: + 965 55306429
+Email: hashim@whitesystems.co","Company: White Systems
+PoC: Mohammed Hashim K.P
+Phone: + 965 55306429
+Email: hashim@whitesystems.co","Company: White Systems
+PoC: Mohammed Hashim K.P
+Phone: + 965 55306429
+Email: hashim@whitesystems.co","Company: White Systems
+PoC: Mohammed Hashim K.P
+Phone: + 965 55306429
+Email: hashim@whitesystems.co","Company: White Systems
+PoC: Sherin Jose Thomas
+Phone: +965 96970718
+Email: sherin@whitesystems.co","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+Lebanon,LB,"PoC: Moussa Abdo
+Phone: +961.70.123007
+Email: mabdo@mcdonalds.com.lb","Company: NCR
+PoC: Hicham Janbeih
+Phone: +96176174474
+Email: hicham.janbeih@ncr.com","Company: NCR
+PoC: Hicham Janbeih
+Phone: +96176174474
+Email: hicham.janbeih@ncr.com","Company: NCR
+PoC: Hicham Janbeih
+Phone: +96176174474
+Email: hicham.janbeih@ncr.com","Company: NCR
+PoC: Hicham Janbeih
+Phone: +96176174474
+Email: hicham.janbeih@ncr.com","Company: NCR
+PoC: Johti
+Phone: 
+Email: ","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-100",,
+Malta,MT,"PoC: Jean Claude Frendo
+Phone: n/a
+Email: jeanclaude.frendo@mt.mcd.com","Company: McDonald's
+PoC: Jean Claude Frendo
+Phone: n/a
+Email: jeanclaude.frendo@mt.mcd.com","Company: McDonald's
+PoC: Jean Claude Frendo
+Phone: n/a
+Email: jeanclaude.frendo@mt.mcd.com","Company: McDonald's
+PoC: Jean Claude Frendo
+Phone: n/a
+Email: jeanclaude.frendo@mt.mcd.com","Company: McDonald's
+PoC: Jean Claude Frendo
+Phone: n/a
+Email: jeanclaude.frendo@mt.mcd.com","Company: McDonald's
+PoC: Jean Claude Frendo
+Phone: n/a
+Email: jeanclaude.frendo@mt.mcd.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: Global Green-Language
+Number Range: 1-60",,
+Moldova,MD,"PoC: Dmitri Selekh
+Phone: 37379479787
+Email: it@mcdonalds.md","Company: McDonald's
+PoC: Dmitri Selekh
+Phone: 37379479787
+Email: it@mcdonalds.md","Company: McDonald's
+PoC: Dmitri Selekh
+Phone: 37379479787
+Email: it@mcdonalds.md","Company: McDonald's
+PoC: Dmitri Selekh
+Phone: 37379479787
+Email: it@mcdonalds.md","Company: McDonald's
+PoC: Dmitri Selekh
+Phone: 37379479787
+Email: it@mcdonalds.md","Company: McDonald's
+PoC: Sviriniuc Alexander
+Phone: 373 79 401 129
+Email: customs@mcdonalds.md ","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+Netherlands,NL,"PoC: Laurens Driessen
+Phone: +31650123938
+Email: laurens.driessen@nl.mcd.com","Company: NCR NL
+PoC: Rob van de Sande
+Phone: +31 653 823 503
+Email: rob.vandesande@ncr.com","Company: NCR NL
+PoC: [Help Desk]
+Phone: +31 20 201 5105
+Email: imac.mcdonalds@ncr.com","Company: NCR NL
+PoC: [Help Desk]
+Phone: +31 20 201 5105
+Email: imac.mcdonalds@ncr.com","Company: NCR NL
+PoC: Rob van de Sande
+Phone: +31 653 823 503
+Email: rob.vandesande@ncr.com","Company: NCR
+PoC: n/a
+Phone: n/a
+Email: imac.mcdonalds@ncr.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: Netherlands Custom
+Number Range: 1-100",,
+New Zealand,NZ,"PoC: Graham Bennett
+Phone: +64 27 259 1922
+Email: graham.bennett@nz.mcd.com","Company: Fujitsu
+PoC: Aaron Trillo
+Phone: n/a
+Email: aaron.trillo@nz.fujitsu.com","Company: Fujitsu
+PoC: [Help Desk]
+Phone: 64 7 808 1438
+Email: n/a","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: Fujitsu
+PoC: Aaron Trillo
+Phone: n/a
+Email: aaron.trillo@nz.fujitsu.com","PoC: 
+Email: ","Tent Design: 
+Number Range: ",,
+Nicaragua,NI,"PoC: Willy Morales
+Phone: +502 2285 7700
+Email: willy.morales@mcd.com.gt","Company: SAR LATAM
+PoC: Ivan Apopa
+Phone: +502 4149 7964
+Email: ivan.apopa@mcd.com.gt","Company: SAR LATAM
+PoC: [Help Desk]
+Phone: +502 2285 7715
+Email: soporte.remoto@sarlatam.com","Company: SAR LATAM
+PoC: Ruben Garcia
+Phone: (502) 5717 8215
+Email: ruben.garcia@sar.com.gt","Company: SAR LATAM
+PoC: Ruben Garcia
+Phone: +502 5717 8214
+Email: ruben.garcia@sar.com.gt","Company: SAR LATAM
+PoC: Manuel Giron
+Phone: (502) 2285 7700
+Email: manuel.giron@sar.com.gt","PoC: Brian Corcoran
+Email: brian@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+Norway,NO,"PoC: Andreas Ervig
+Phone: (47) 99729972
+Email: andreas.ervig@no.mcd.com","Company: Ekab
+PoC: Andreas Hoberg
+Phone: 47 913 75 985
+Email: andreas.hoberg@ekabss.com","Company: Ekab
+PoC: Andreas Hoberg
+Phone: 47 913 75 985
+Email: andreas.hoberg@ekabss.com","Company: Ekab
+PoC: Andreas Hoberg
+Phone: 47 913 75 985
+Email: andreas.hoberg@ekabss.com","Company: Ekab
+PoC: Andreas Hoberg
+Phone: 47 913 75 985
+Email: andreas.hoberg@ekabss.com","Company: Ekab
+PoC: Andreas Hoberg
+Phone: 47 913 75 985
+Email: andreas.hoberg@ekabss.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+Pakistan,PK,"PoC: Muhammad Shaham Bakht
+Phone: 0092 300 8430015
+Email: muhammad.shaham@mcdonalds.com.pk","Company: Kaem
+PoC: Muqsit Shahrukh
+Phone: 92 313 246 5234
+Email: muqsit@kaem.solutions ","Company: Kaem
+PoC: Muqsit Shahrukh
+Phone: 92 313 246 5234
+Email: muqsit@kaem.solutions ","Company: Kaem
+PoC: Mr. Jaswant
+Phone: 92 336 130 4149
+Email: jaswant@kaem.solutions","Company: Kaem
+PoC: Muqsit Shahrukh
+Phone: 92 313 246 5234
+Email: muqsit@kaem.solutions ","Company: McDonald's
+PoC: Muhammad Usman
+Phone: (92)-301-844-2969
+Email: muhammad.usman@mcdonalds.com.pk","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+Paraguay,PY,"PoC: Eduardo Insfran
+Phone: (595) 974 200314
+Email: einsfran@mcd.com.py","Company: McDonald's
+PoC: Ruben Talavera
+Phone: +(595) 974 299287
+Email: rtalavera@mcd.com.py","Company: McDonald's
+PoC: [Help Desk]
+Phone: +595 (021) 202420
+Email: sistemas@mcd.com.py","Company: McDonald's
+PoC: Miguel Pereyra
+Phone: +(595) 874 200858
+Email: mpereyra@mcd.com.py","Company: McDonald's
+PoC: Ruben Talavera
+Phone: +(595) 974 299287
+Email: rtalavera@mcd.com.py","Company: McDonald's
+PoC: Eduardo Insfran
+Phone: (595) 974 200314
+Email: einsfran@mcd.com.py","PoC: Brian Corcoran
+Email: brian@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+Poland,PL,"PoC: Piotr Kosman
+Phone: 48 664148562
+Email: piotr.kosman@pl.mcd.com","Company: Trecom
+PoC: Pawel Piowski 
+Phone: +48512509657
+Email: pawel.piwonski@trecom.pl","Company: Havi
+PoC: Artur Łopacz
+Phone: +48 787 092 978
+Email: artur.lopacz@mcuw-it.pl","Company: Havi
+PoC: Artur Łopacz
+Phone: +48 787 092 978
+Email: artur.lopacz@mcuw-it.pl","Company: Trecom
+PoC: Pawel Piowski 
+Phone: +48512509657
+Email: pawel.piwonski@trecom.pl","Company: NCR
+PoC: Dominika Krynska
+Phone: n/a
+Email: dominika.krynska@ncr.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: Poland Custom
+Number Range: 1-199",,
+Qatar,QA,"PoC: Aladdin Saqer
+Phone: 974 55485333
+Email: Aladdin.Saqer@mcdonaldsqatar.com","Company: McDonald's
+PoC: Marc Colopano
+Phone: 974 50112262
+Email: marc.colopano@mcdonalds.qatar.com","Company: McDonald's
+PoC: Marc Colopano
+Phone: 974 50112262
+Email: marc.colopano@mcdonalds.qatar.com","Company: McDonald's
+PoC: Marc Colopano
+Phone: 974 50112262
+Email: marc.colopano@mcdonalds.qatar.com","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: Walid Heikel 
+Phone: 
+Email: ","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+Romania,RO,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","PoC: 
+Email: ","Tent Design: 
+Number Range: ",,
+Russia,RU,"PoC: Sergey Anisimov
+Phone: Sergey.Anisimov@ru.mcd.com
+Email: 7 495 763-1123","Company: CCRS
+PoC: Karim Aynetdinov
+Phone: n/a
+Email: karim@ccrs.ru","Company: CCRS
+PoC: Alexey Isaev
+Phone: n/a
+Email: a.isaev@ccrs.ru","Company: CCRS
+PoC: Alexey Isaev
+Phone: n/a
+Email: a.isaev@ccrs.ru","Company: CCRS
+PoC: Alexey Isaev
+Phone: n/a
+Email: a.isaev@ccrs.ru","Company: CCRS
+PoC: Timofey Vlodin
+Phone: 7 495-786-21-10-245
+Email: volodin@ccrs.ru","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+Saudi Arabia,SA,"PoC: Hussain Firzan
+Phone: +966507515939
+Email: hussain.firzan@mcdonalds.com.sa","Company: McDonald's SA
+PoC: Hussain Firzan
+Phone: +966507515939
+Email: hussain.firzan@mcdonalds.com.sa","Company: McDonald's SA
+PoC: Hussain Firzan
+Phone: +966507515939
+Email: hussain.firzan@mcdonalds.com.sa","Company: McDonald's SA
+PoC: Hussain Firzan
+Phone: +966507515939
+Email: hussain.firzan@mcdonalds.com.sa","Company: McDonald's SA
+PoC: Hussain Firzan
+Phone: +966507515939
+Email: hussain.firzan@mcdonalds.com.sa","Company: McDonald's SA
+PoC: Hussain Firzan
+Phone: +966507515939
+Email: hussain.firzan@mcdonalds.com.sa","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: Saudi Arabia Custom
+Number Range: 1-100",,
+Serbia,RS,"PoC: Maja Pandurov
+Phone: +381 11 7119577
+Email: maja.pandurov@rs.mcd.com","Company: Fratello
+PoC: Slobodan Delic
+Phone: 381 11 30.89.361
+Email: sdelic@fratello.rs","Company: Fratello
+PoC: Slobodan Delic
+Phone: 381 11 30.89.361
+Email: sdelic@fratello.rs","Company: Fratello
+PoC: Slobodan Delic
+Phone: 381 11 30.89.361
+Email: sdelic@fratello.rs","Company: Fratello
+PoC: Slobodan Delic
+Phone: 381 11 30.89.361
+Email: sdelic@fratello.rs","Company: Fratello
+PoC: Slobodan Delic
+Phone: 381 11 30.89.361
+Email: sdelic@fratello.rs","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+Singapore,SG,"PoC: Terence Lim
+Phone: +65 9117 8681
+Email: terence.lim@sg.mcd.com","Company: McDonald's
+PoC: Eric Wang
+Phone: (65) 6460 8855
+Email: eric.wang@sg.mcd.com","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: McDonald's
+PoC: Terence Lim
+Phone: +65 9117 8681
+Email: terence.lim@sg.mcd.com","PoC: 
+Email: ","Tent Design: 
+Number Range: ",,
+Slovakia,SK,"PoC: 
+Phone: 
+Email: ","Company: MFL
+PoC: Marcel Ferenc
+Phone: 
+Email: ","Company: MFL
+PoC: 
+Phone: 
+Email: ","Company: MFL
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: NCR
+PoC: Dominika Krynska
+Phone: n/a
+Email: dominika.krynska@ncr.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+South Africa,ZA,"PoC: Willem Potgieter
+Phone: 27 83 253 6609
+Email: willem.potgieter@za.mcd.com","Company: McDonald's
+PoC: Willem Potgieter
+Phone: 27 83 253 6609
+Email: willem.potgieter@za.mcd.com","Company: McDonald's
+PoC: Thabo Nqcobo
+Phone: 27 86 174 9370
+Email: thabo.nqcobo@za.mcd.com","Company: McDonald's
+PoC: Thireshan Sarabeah
+Phone: thireshan.sarabeah@za.mcd.com
+Email: 27 64 521 6956","Company: McDonald's
+PoC: Thireshan Sarabeah
+Phone: thireshan.sarabeah@za.mcd.com
+Email: 27 64 521 6956","Company: McDonald's
+PoC: Alycia Rumlucken
+Phone: 27 82 882 2321
+Email: alycia.rumlucken@za.mcd.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+South Korea,KR,"PoC: Woonam Pyun
+Phone: 82-10-9689-280
+Email: woonam.pyun@kr.mcd.com","Company: 
+PoC: 
+Phone: 
+Email: ","Company: NCR KR
+PoC: [Help Desk]
+Phone: n/a
+Email: korea.helpdesk@ncr.com","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","PoC: Brian Corcoran
+Email: brian@radiusnetworks.com","Tent Design: GANL
+Number Range: 1-50",,
+Spain,ES,"PoC: Gema Rebollo
+Phone: 34 629 512 350
+Email: gema.rebollo@es.mcd.com","Company: NCR ES
+PoC: Maripaz Fernandez
+Phone: 34658734926
+Email: mari.fernandez@ncr.com","Company: NCR ES
+PoC: [Help Desk]
+Phone: +34 918 368 550
+Email: soporte.mcd@ncr.com","Company: NCR ES
+PoC: [Help Desk]
+Phone: +34 918 368 550
+Email: soporte.mcd@ncr.com","Company: NCR ES
+PoC: Antonio Badenes
+Phone: 34618730817
+Email: antonio.badenes2@ncr.com","Company: NCR ES
+PoC: Lola Barrado
+Phone: 34615531405
+Email: lola.barrado@ncr.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: Spain Custom Green
+Number Range: 100-199",,
+Sweden,SE,"PoC: Henrik Simonsen
+Phone: +46 70 354 85 53
+Email: henrik.simonsen@se.mcd.com","Company: Diebold Nixdorf
+PoC: Jonny Yokota
+Phone: n/a
+Email: jonny.yokota.ext@dieboldnixdorf.com","Company: Cap Gemini
+PoC: Sara Ahlqvist
+Phone: +46 8 740 87 07
+Email: sara.ahlqvist@capgemini.com","Company: Diebold Nixdorf
+PoC: Gunnar Melin
+Phone: +46 70 166 0958
+Email: gunnar.melin@dieboldnixdorf.com","Company: Diebold Nixdorf
+PoC: Marja Holm
+Phone: +46 70 166 09 69
+Email: marja.holm@dieboldnixdorf.com","Company: Diebold Nixdorf
+PoC: Gunnar Melin
+Phone: +46 70 166 0958
+Email: gunnar.melin@dieboldnixdorf.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: GANL
+Number Range: 1-100",,
+Switzerland,CH,"PoC: Hugo Klaus
+Phone: +41 (0) 78 655 95 93
+Email: hugo.klaus@ch.mcd.com","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+Ukraine,UA,"PoC: Yuri Rostomyan
+Phone: n/a
+Email: yuri.rostomyan@ua.mcd.com","Company: CCRS
+PoC: Sergiy Matviiv
+Phone: +380443511775
+Email: matviiv@ccrs.com.ua","Company: CCRS
+PoC: Sergiy Matviiv
+Phone: +380443511775
+Email: matviiv@ccrs.com.ua","Company: CCRS
+PoC: Anton Musienko
+Phone: +38 063 820 61 15
+Email: musienko@ccrs.com.ua","Company: CCRS
+PoC: Anton Musienko
+Phone: +38 063 820 61 15
+Email: musienko@ccrs.com.ua","Company: CCRS
+PoC: Anton Musienko
+Phone: +38 063 820 61 15
+Email: musienko@ccrs.com.ua","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: 
+Number Range: ",,
+United Arab Emirates,AE,"PoC: Prakash Rao
+Phone: +971 50 4628566
+Email: prakash.rao@mcdonalds-uae.com","Company: McDonald's UAE
+PoC: Manuel Zamora
+Phone: +971 50 4628566
+Email: manuel.zamora@mcdonalds-uae.com","Company: McDonald's UAE
+PoC: Manuel Zamora
+Phone: +971 50 4628566
+Email: manuel.zamora@mcdonalds-uae.com","Company: McDonald's UAE
+PoC: Manuel Zamora
+Phone: +971 50 4628566
+Email: manuel.zamora@mcdonalds-uae.com","Company: McDonald's UAE
+PoC: Manuel Zamora
+Phone: +971 50 4628566
+Email: manuel.zamora@mcdonalds-uae.com","Company: McDonald's
+PoC: Sandra Caparas
+Phone: 971 55 7136714
+Email: sandra.caparas@mcdonalds-uae.com","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: US Green
+Number Range: 1-60",,
+United Kingdom,UK,"PoC: Roland Nicholas
+Phone: n/a
+Email: roland.nicholas@mcd.uk","Company: Jade
+PoC: Rob Jeffries
+Phone: +44 771 8106 823
+Email: rjefferies@jade-solutions.co.uk","Company: Cap Gemini
+PoC: [Help Desk]
+Phone: 015138192; Option 1
+Email: n/a","Company: Odema
+PoC: Nigel Davis 
+Phone: +44 (0)7710441991
+Email: ndavis@odema.co.uk","Company: Odema
+PoC: Pete Baldwin
+Phone: n/a
+Email: pbaldwin@odema.co.uk","Company: CDW
+PoC: Oliver Fielding 
+Phone: 447881 013221
+Email: f.oliver@uk.cdw.com ","PoC: Anthony Eckett
+Email: anthony@radiusnetworks.com","Tent Design: UK Custom
+Number Range: 1-699",,
+Vietnam,VN,"PoC: Doug Nguyen
+Phone: n/a
+Email: doug.nguyen@vn.mcd.com","Company: FTS Services
+PoC: IT Support
+Phone: +84 93 8888247
+Email: it.support@ftsservices.vn","Company: FTS Services
+PoC: IT Support
+Phone: +84 93 8888247
+Email: it.support@ftsservices.vn","Company: McDonald's Vietnem
+PoC: Khoa Bui
+Phone: +84 90 2919 535
+Email: khoa.bui@vn.mcd.com","Company: McDonald's Vietnam
+PoC: Doug Nguyen
+Phone: n/a
+Email: doug.nguyen@vn.mcd.com","Company: McDonald's Vietnam
+PoC: Doug Nguyen
+Phone: n/a
+Email: doug.nguyen@vn.mcd.com","PoC: 
+Email: ","Tent Design: US Green
+Number Range: 1-60",,
+,,,,,,,,,,,
+***Pending***,,,,,,,,,,,
+,,,,,,,,,,,
+Country,ABBR.,Market Contact(s),Tier 1 Partner,Tier 2 Partner,Install Partner,Hardware Parnter,,,,,
+America Samoa,AS,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Andorra,AD,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Argentina,AR,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Aruba,AW,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Austria,AT,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Azerbaijan,AZ,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Bahamas,BS,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Bahrain,BH,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Belarus,BY,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Bosnia,BA,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Brunei,BN,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Bulgaria,BG,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Chile,CL,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+China,CN,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Columbia,CO,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Costa Rica,CR,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Croatia,HR,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Curacao,CW,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Denmark,DK,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Dominican Republic,DO,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Ecuador,EC,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+El Salvador,SV,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Estonia,EE,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Fiji Islands,FJ,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+France,FR,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+French Guiana,GF,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Greece,GR,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Guadeloupe,GP,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Indonesia,ID,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Ireland,IE,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Isreal,IL,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Kazakhstan,KZ,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Latvia,LV,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Lebanon,LB,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Lithuania,LT,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Luxembourg,LU,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Macao,MO,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Malaysia,MY,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Malta,MT,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Martinique,MQ,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Mauritius,MU,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Mexico,MX,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Morocco,MA,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+New Caledonia,NC,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Nicaragua,NI,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Oman,OM,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Panama,PA,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Paraguay,PY,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Peru,PE,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Philippines,PH,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Portugal,PT,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Puerto Rico,PR,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Reunion,RE,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Saint Maarten,SX,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Slovakia,SK,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Slovenia,SI,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+South Africa,ZA,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+South Korea,KR,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Sri Lanka,LK,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Suriname,SR,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Taiwan,TW,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Thailand,TH,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Trinidad & Tobago,TT,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+TURKEY,TR,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+U.S. VIRGIN ISLANDS,VI,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Uruguay,UY,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Venzuela,VE,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Vietnam,VN,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,
+Western Samoa,WS,"PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ","Company: 
+PoC: 
+Phone: 
+Email: ",,,,,

@@ -1,0 +1,54 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Project:</strong>
+  <%= @fbt.project %>
+</p>
+
+<p>
+  <strong>Status:</strong>
+  <%= @fbt.status %>
+</p>
+
+<p>
+  <strong>Radius poc:</strong>
+  <%= @fbt.radius_poc %>
+</p>
+
+<p>
+  <strong>Support engineer:</strong>
+  <%= @fbt.support_engineer %>
+</p>
+
+<p>
+  <strong>Equipment:</strong>
+  <%= @fbt.equipment %>
+</p>
+
+<p>
+  <strong>Warranty start date:</strong>
+  <%= @fbt.warranty_start_date %>
+</p>
+
+<p>
+  <strong>Number of locations:</strong>
+  <%= @fbt.number_of_locations %>
+</p>
+
+<p>
+  <strong>Support coverage:</strong>
+  <%= @fbt.support_coverage %>
+</p>
+
+<p>
+  <strong>Sla:</strong>
+  <%= @fbt.sla %>
+</p>
+
+<p>
+  <strong>Tent set type:</strong>
+  <%= @fbt.tent_set_type %>
+</p>
+
+<%= link_to 'Edit', edit_fbt_path(@fbt) %> |
+<%= link_to 'Back', fbts_path %>

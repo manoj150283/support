@@ -1,0 +1,83 @@
+<%= form_with(model: fbc) do |form| %>
+  <% if fbc.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(fbc.errors.count, "error") %> prohibited this fbc from being saved:</h2>
+
+      <ul>
+        <% fbc.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field form-group">
+    <%= form.label :project %>
+    <%= form.text_field :project,
+    class:"form-control" %>
+  </div>
+
+  <div class="field form-group">
+    <%= form.label :status %>
+    <%= form.text_field :status,
+    class:"form-control" %>
+  </div>
+
+  <div class="field form-group">
+    <%= form.label :CSM %>
+    <%= form.text_field :CSM,
+    class:"form-control" %>
+  </div>
+
+  <div class="field form-group">
+    <%= form.label :Support_Engineer %>
+    <%= form.text_field :Support_Engineer,
+    class:"form-control" %>
+  </div>
+
+  <div class="field form-group">
+    <%= form.label :Equipment %>
+    <%= form.text_field :Equipment,
+    class:"form-control" %>
+  </div>
+
+  <div class="field form-group">
+    <%= form.label :Warranty_Start_Date %>
+    <%= form.text_field :Warranty_Start_Date,
+    class:"form-control" %>
+  </div>
+
+  <div class="field form-group">
+    <%= form.label :Staff_Dashboard %>
+    <%= form.text_field :Staff_Dashboard,
+    class:"form-control" %>
+  </div>
+
+  <div class="field form-group">
+    <%= form.label :Live_Locations %>
+    <%= form.number_field :Live_Locations,
+    class:"form-control" %>
+  </div>
+
+  <div class="field form-group">
+    <%= form.label :Total_Locations %>
+    <%= form.number_field :Total_Locations,
+    class:"form-control" %>
+  </div>
+
+  <div class="field form-group">
+    <%= form.label :Support_Coverage %>
+    <%= form.text_field :Support_Coverage,
+    class:"form-control" %>
+  </div>
+
+  <div class="field form-group">
+    <%= form.label :SLA %>
+    <%= form.text_field :SLA,
+    class:"form-control" %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit class:'btn btn-secondary' %>
+  </div>
+<% end %>
